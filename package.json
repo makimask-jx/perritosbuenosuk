@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
     "name": "perritosbuenosuk",
     "description": "Una página web para promocionar el servidor de Matrix de los perritos buenos",
     "cloudflare": {
@@ -37,8 +36,7 @@
         "preview": "astro build && wrangler dev",
         "generate-types": "wrangler types"
     },
-    "type": "module"
-=======
+    "type": "module",
 	"name": "perritosbuenosuk",
 	"description": "Build a personal website, blog, or portfolio with Astro.",
 	"cloudflare": {
@@ -76,5 +74,4 @@
 		"preview": "astro build && wrangler dev"
 	},
 	"type": "module"
->>>>>>> bbfef71 (Address security concerns)
 }
